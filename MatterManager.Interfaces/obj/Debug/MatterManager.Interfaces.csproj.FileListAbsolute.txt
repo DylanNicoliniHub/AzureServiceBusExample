@@ -1,0 +1,10 @@
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Interfaces\bin\Debug\MatterManager.Interfaces.dll.config
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Interfaces\bin\Debug\MatterManager.Interfaces.dll
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Interfaces\bin\Debug\MatterManager.Interfaces.pdb
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Interfaces\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Interfaces\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Interfaces\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Interfaces\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Interfaces\obj\Debug\MatterManager.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Interfaces\obj\Debug\MatterManager.Interfaces.dll
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Interfaces\obj\Debug\MatterManager.Interfaces.pdb

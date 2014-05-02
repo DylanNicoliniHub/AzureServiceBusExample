@@ -1,0 +1,4 @@
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Logging\bin\Release\MatterManager.Logging.dll
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Logging\bin\Release\MatterManager.Logging.pdb
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Logging\obj\Release\MatterManager.Logging.dll
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Logging\obj\Release\MatterManager.Logging.pdb

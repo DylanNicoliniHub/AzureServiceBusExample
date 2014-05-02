@@ -1,0 +1,12 @@
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Persistence\bin\Release\MatterManager.Persistence.dll.config
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Persistence\bin\Release\MatterManager.Persistence.dll
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Persistence\bin\Release\MatterManager.Persistence.pdb
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Persistence\bin\Release\EntityFramework.dll
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Persistence\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Persistence\bin\Release\MatterManager.Interfaces.dll
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Persistence\bin\Release\MatterManager.Interfaces.pdb
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Persistence\bin\Release\EntityFramework.xml
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Persistence\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Persistence\obj\Release\MatterManager.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Persistence\obj\Release\MatterManager.Persistence.dll
+C:\Users\dnicolini\Source\Workspaces\Workspace2\MatterManagerEnterprise\MatterManagerEnterprise\MatterManager.Persistence\obj\Release\MatterManager.Persistence.pdb
